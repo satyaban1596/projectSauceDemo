@@ -1,0 +1,9 @@
+Page\CartPage.class
+Page\Homepage.class
+StepDefination\LogoutStep.class
+StepDefination\HomeDefination.class
+StepDefination\CartDefination.class
+Page\LogoutPage.class
+Runner\TestRunner.class
+Page\loginpage.class
+StepDefination\loginstep.class
